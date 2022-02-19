@@ -1,2 +1,3 @@
-# super-rng
-Probably an rpg or something else that uses rng
+# T.B.o.I. - Java
+
+The Binding of Isaacals Java-Übungsprojekt. Wird hoffentlich cool.
